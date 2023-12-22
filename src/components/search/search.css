@@ -1,0 +1,13 @@
+/* search.css */
+.search-bar {
+    width: 600px; /* Set your desired width */
+    border-radius: 15px; /* Set your desired border-radius for curved corners */
+    height: 40px;
+    margin: 60px;
+    justify-content: center;
+    align-items: center;
+    padding-left: 200px;
+ 
+
+  }
+  
